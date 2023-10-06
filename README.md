@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<!--
+## Editing the file
 **nyahtuazon/NyahTuazon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Its a markdown file in this repository.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
